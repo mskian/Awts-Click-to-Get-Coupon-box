@@ -129,7 +129,7 @@ add_shortcode( 'ccpn', 'awts_cpdeals' );
 function awtscppn_activate() {
 
     $url = get_site_url();
-  $message = "Your certificate System Plugin has activated on $url ";
+  $message = "Your Plugin has activated on $url ";
   $message = wordwrap($message, 70, "\r\n");
 
   wp_mail('hello@mskian.com', 'click to get coupon System Plugin Activated', $message);
