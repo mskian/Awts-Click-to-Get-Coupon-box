@@ -11,7 +11,7 @@ Just Download this plugin and upload in your Wordpress plugin directory and acti
 
 <pre>[ccpn link="Your Affiliate Link" ddl="Coupon code" /]</pre>
 
-- Replace "Your Affiliate Lini and "coupon code with" with your affiliate link and coupon code
+- Replace "Your Affiliate Link and "coupon code with" with your affiliate link and coupon code
 - if you not having the coupon code means just add Activated
 - use that shortcode in posts and pages
 - that's all done
