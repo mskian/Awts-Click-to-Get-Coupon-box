@@ -3,7 +3,7 @@ Awts Click to Get Coupon box helps promote your affiliate links and coupons.Shor
 
 Just Download this plugin and upload in your Wordpress plugin directory and activatem it
 
-- Downlaod plugin here - 
+- Downlaod plugin here - https://github.com/mskian/Awts-Click-to-Get-Coupon-code-box/archive/master.zip
 - Go to plugins Add new and select the upload pluging
 - upload this plugin file activate it
 - that's successfully you installed the Awts Click to Get Coupon code box
