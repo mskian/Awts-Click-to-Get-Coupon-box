@@ -1,4 +1,4 @@
-# Awts-Click-to-Get-Coupon-box
+#Awts-Click-to-Get-Coupon-box
 Awts Click to Get Coupon box helps you to promote your affiliate links and coupons.
 
 - Shortcode to show Coupon Code :- <i><center><b>[ccpn link="Your Affiliate link" ddl="Your Coupon Code" /]</b></center></i>
