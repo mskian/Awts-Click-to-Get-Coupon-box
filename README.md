@@ -8,7 +8,7 @@ Awts Click to Get Coupon box helps you to promote your affiliate links and coupo
 - Download plugin here - <i><u>https://github.com/mskian/Awts-Click-to-Get-Coupon-code-box/archive/master.zip</i></u>
 - Go to plugins Add new and select the upload pluging
 - upload this plugin file & activate it
-- that's all you have successfully installed the <b>Awts Click to Get Coupon code box
+- that's all you have successfully installed the Awts Click to Get Coupon code box
 - Now use this shortcode to add Awts Click to Get Coupon code box
 
 <pre>[ccpn link="Your Affiliate Link" ddl="Coupon code" /]</pre>
