@@ -1,9 +1,9 @@
 # Awts-Click-to-Get-Coupon-box
 Awts Click to Get Coupon box helps you to promote your affiliate links and coupons.
 
-+Shortcode to show Coupon Code :- <i><center><b>[ccpn link="Your Affiliate link" ddl="Your Coupon Code" /]</b></center></i>
+- Shortcode to show Coupon Code :- <i><center><b>[ccpn link="Your Affiliate link" ddl="Your Coupon Code" /]</b></center></i>
 
-+Just Download this plugin and upload in your Wordpress plugin directory and activate it
+- Just Download this plugin and upload in your Wordpress plugin directory and activate it
 
 - Download plugin here - <i><u>https://github.com/mskian/Awts-Click-to-Get-Coupon-code-box/archive/master.zip</i></u>
 - Go to plugins Add new and select the upload pluging
