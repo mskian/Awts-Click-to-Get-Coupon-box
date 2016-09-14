@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Awts Click to Get Coupon code box
+ * Plugin Name: Awts Click to get a Coupon code box
  * Plugin URI: https://www.mskian.com
  * Description: Awts Click to Get Coupon box helps promote your affiliate links and coupons.Shortcode [ccpn link="Your Affiliate link" ddl="Your Coupon Code" /]
  * Version: 1.0
